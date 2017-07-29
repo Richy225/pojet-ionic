@@ -24,3 +24,8 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+PARTICIPANTS
+- ADJINAKOU Ulrich ( création du projet et intégration de l'API au niveau des saisons)
+- SESSOU Geraud ( gestion de l'affichage)
+- SOSSA KODJO Edem Arnold (soutiens technique)
+
